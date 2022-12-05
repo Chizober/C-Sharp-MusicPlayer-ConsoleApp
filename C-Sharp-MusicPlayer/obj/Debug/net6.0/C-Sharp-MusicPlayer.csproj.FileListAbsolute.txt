@@ -1,0 +1,15 @@
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\C-Sharp-MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\C-Sharp-MusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\C-Sharp-MusicPlayer.AssemblyInfoInputs.cache
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\C-Sharp-MusicPlayer.AssemblyInfo.cs
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\C-Sharp-MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\bin\Debug\net6.0\C-Sharp-MusicPlayer.exe
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\bin\Debug\net6.0\C-Sharp-MusicPlayer.deps.json
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\bin\Debug\net6.0\C-Sharp-MusicPlayer.runtimeconfig.json
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\bin\Debug\net6.0\C-Sharp-MusicPlayer.dll
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\bin\Debug\net6.0\C-Sharp-MusicPlayer.pdb
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\C-Sharp-MusicPlayer.dll
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\refint\C-Sharp-MusicPlayer.dll
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\C-Sharp-MusicPlayer.pdb
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\C-Sharp-MusicPlayer.genruntimeconfig.cache
+C:\Users\Kaiser\Desktop\C-Sharp-MusicPlayer\obj\Debug\net6.0\ref\C-Sharp-MusicPlayer.dll
